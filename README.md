@@ -1,2 +1,2 @@
 # Imersao-Dev
-<p>Projetos realizados com Java Script durante a Imersão Dev Alura
+<p>Projetos realizados com JavaScript durante a Imersão Dev Alura
